@@ -3,10 +3,14 @@ Challenge 1 Kickstarter analysis: Perform a data analysis to Kickstarter to unco
 ## Overview of Project
 
 ### Purpose
+The purpose of this analysis is to help the client Louise to know how different campaigns fared in relation to their launch dates and their funding goals
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+-The month that had the most outcomes based on Launch Date was May. However, May, June and July had roughly the same number of successful outocomes. So we can imply that the best season to Launch any play is the second quarter of the year. This can be determined by examining the points along the trend lines of the chart.
+-The month with the worst outcomes based on Launch Date was October, beside having the roughly the same number of failed outcomes than May (the month with the best outcomes), the percentage of successful plays was very different.
+-We can conclude that after the best launching season (second quarter of the year), theres a peak in failed plays, people prefer going to the theater on final spring and summer, rather than the final part of the year
 
 ### Analysis of Outcomes Based on Goals
 
