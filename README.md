@@ -16,6 +16,7 @@ The purpose of this analysis is to help the client Louise to know how different 
 
 https://github.com/davescudero/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
