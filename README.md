@@ -14,7 +14,8 @@ The purpose of this analysis is to help the client Louise to know how different 
  
 - We can conclude that after the best launching season (second quarter of the year), theres a peak in failed plays, people prefer going to the theater on final spring and summer, rather than the final part of the year
 
-[Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch)
+https://github.com/davescudero/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
