@@ -14,10 +14,12 @@ The purpose of this analysis is to help the client Louise to know how different 
  
 - We can conclude that after the best launching season (second quarter of the year), theres a peak in failed plays, people prefer going to the theater on final spring and summer, rather than the final part of the year
 
-https://github.com/davescudero/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
-
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
+- Outcomes based on plays are really simple, the best outcomes were the ones with the lower goals (less than $1000), however theres a range where the percentage failed is lower than the majority of the goal outcomes and not being the lower one: $35,000-$40,000, wich is a better goal, considering the outcomes of the different ranges
+
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
